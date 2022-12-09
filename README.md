@@ -1,7 +1,7 @@
 - Hi, my name is Scott Hardy.
-- I’m interested in computer programming, video games, tabletop games, and 
+- I’m interested in computer programming, video games, tabletop games, and law.
 - I’m currently learning JS, HTML, CSS, and C#.
-- I’m looking to collaborate on personal projects of mine and my colleagues.
+- I’m looking to collaborate on personal projects of mine and of my colleagues'.
 - You can reach me at ScottHardy4555@outlook.com
 
 <!---
